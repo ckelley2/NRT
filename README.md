@@ -25,7 +25,7 @@ Please contact us for Advanced simulink model of turbine controller
 - S825 across outer 50% of rotor span
 
 # Point of Contact for NRT
-Chris Kelley
+Chris Kelley  
 clkell@sandia.gov
 
 # How to Cite
