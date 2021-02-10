@@ -2,10 +2,10 @@
 - National Rotor Testbed design documentation is contained in this repository
 - Field experiments are ongoing at Sandia/DOE SWiFT Facility, Lubbock, Texas
 - Aerodynamic and instrumentation design by Sandia 
-- Final structural design and manufacturing drwaings were provided by Wetzel Wind Energy Services
+- Final structural design and manufacturing drawings were provided by Wetzel Wind Energy Services
 - TPI Composites manufactured 4 NRT Blades
 - Oakridge National Laboratories 3D printed the NRT blade mold
-- Structural testing was conducted at NREL
+- Structural testing conducted at NREL
 
 #  NRT 
 - To conduct wind turbine wake research relevant to megawatt scale turbines
