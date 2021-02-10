@@ -7,7 +7,7 @@
 - Oakridge National Laboratories 3D printed the NRT blade mold
 - Structural testing conducted at NREL
 
-#  NRT 
+# Purpose
 - To conduct wind turbine wake research relevant to megawatt scale turbines
 - To be an open, well-documented, and highly instrumented wind turbine blade design for model validation
 - To demonstrate new blade technology
