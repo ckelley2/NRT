@@ -35,8 +35,6 @@
   - to compensate for thermal strain
 
 # Blade Properties
-<img align="right" width="300" src="Images/NRT_Drawing.png">
-
 - Length: 13 m
 - Blade Mass: 551 kg per blade, including balance box ballast 
 - Blade Center of Gravity: 4.04 m from root
@@ -55,6 +53,8 @@
 - Airfoils operate at a lift coefficient of 0.6 in region 2
 
 # Structural Design
+<img align="right" width="300" src="Images/NRT_Drawing.png">
+
 - [Beam Properties (.xlsx)](Structure/169.05.02.001-B-Aero+Structure%20Design%20Summary.xlsx?raw=true)
 - [Material Properties and Standards (.xlsx)](Structure/169.03.03.001-A_Sandia_13.0m%20Blade%20Materials%20and%20Test%20Standards_2016-02-....xlsx?raw=true)
 - [Mass, Stiffness, and Modal Analysis Report (.pdf)](Structure/WEI%20169.03.06.001-B-Sandia%2013m%20Blade_Structural%20Analysis%20Summary.pdf)
