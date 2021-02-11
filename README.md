@@ -11,7 +11,7 @@
 
 # Purpose
 - To conduct wind turbine wake research relevant to megawatt scale turbines
-- To be an open, well-documented, and highly instrumented wind turbine blade design for model validation
+- To be an open, well-documented, and highly instrumented wind turbine rotor design for model validation
 - To demonstrate new blade technology
 
 # Aeroelastic Model of the NRT Blades, drivetrain, tower
@@ -51,7 +51,7 @@
 - Instrumentation
 - Wind Resource
 
-# Point of Contact for NRT
+# Point of Contact
 Chris Kelley  
 clkell@sandia.gov
 
