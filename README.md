@@ -24,7 +24,7 @@
 - Please contact us for a detailed simulink model of the turbine controller
 
 # Blade Instrumentation 
-<img align="right" width="300" src="Images/NRT_Sensors2.png">
+<img align="right" width="300" src="Images/NRT_Drawing.png">
 
 - Strain gages:
   - Micron Optics Fiber Optic OS3200
