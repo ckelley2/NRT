@@ -19,7 +19,7 @@
 - Modelled in [FAST version 7](https://www.nrel.gov/wind/nwtc/fastv7.html)
 - Please contact us for Advanced simulink model of turbine controller
 
-# Blade Instrumentation <img align="right" width="400" src="Images/NRT_Sensors2.png">
+# Blade Instrumentation <img align="right" width="300" src="Images/NRT_Sensors2.png">
 - Strain gages at 4 spanwise locations, calibrated to measure aerodynamic bending moment
 - Accelerometers at 2 spanwise locations
 - Temperature at 4 spanwise locations, to compensate for thermal strain
