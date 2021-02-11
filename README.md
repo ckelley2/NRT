@@ -1,8 +1,4 @@
-
-<div id="left"># NRT Summary</div>
-<div id="center">Center text</div>
-<div id="right"><img src="Photos/NRT_Photos_small_7.jpeg" width="200"></div>
-
+<img align="right" width="100" height="100" src="Photos/NRT_Photos_small_7.jpeg">
 
 # NRT Summary <img src="Photos/NRT_Photos_small_7.jpeg" width="200">
 - National Rotor Testbed design documentation is contained in this repository
