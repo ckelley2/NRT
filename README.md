@@ -1,4 +1,7 @@
 
+<div id="left"># NRT Summary</div>
+<div id="center">Center text</div>
+<div id="right"><img src="Photos/NRT_Photos_small_7.jpeg" width="200"></div>
 
 
 # NRT Summary <img src="Photos/NRT_Photos_small_7.jpeg" width="200">
