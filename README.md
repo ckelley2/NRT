@@ -20,9 +20,15 @@
 - Please contact us for Advanced simulink model of turbine controller
 
 # Blade Instrumentation <img align="right" width="300" src="Images/NRT_Sensors2.png">
-- Strain gages at 4 spanwise locations, calibrated to measure aerodynamic bending moment
-- Accelerometers at 2 spanwise locations
-- Temperature at 4 spanwise locations, to compensate for thermal strain
+- Strain gages:
+ - Micron Optics Fiber Optic OS3200
+ - every 45 degrees at root, high/low pressure side outboard
+ - calibrated to measure aerodynamic bending moment
+- Accelerometers:
+ - Silicon Designs 2470
+- Blade Temperature:
+ - Micron Optics Fiber Optic OS4300
+ - to compensate for thermal strain
 
 # Blade Properties
 - Length: 13 m
