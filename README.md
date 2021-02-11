@@ -24,7 +24,7 @@
 - Please contact us for a detailed simulink model of the turbine controller
 
 # Blade Instrumentation 
-<img align="right" width="300" src="Images/NRT_Drawing.png">
+<img align="right" width="300" src="Images/NRT_Sensors2.png">
 
 - Strain gages:
   - Micron Optics Fiber Optic OS3200
@@ -37,6 +37,8 @@
   - to compensate for thermal strain
 
 # Blade Properties
+<img align="right" width="300" src="Images/NRT_Drawing.png">
+
 - Length: 13 m
 - Blade Mass: 551 kg per blade, including balance box ballast 
 - Blade center of gravity: 4.04 m from root
