@@ -8,7 +8,7 @@
 - Aerodynamic and instrumentation design by Sandia 
 - Final structural design and manufacturing drawings were provided by Wetzel Wind Energy Services
 - TPI Composites manufactured 4 NRT Blades
-- Oakridge National Laboratories 3D printed the NRT blade mold
+- Oakridge National Laboratory 3D printed the NRT blade mold
 - Structural testing conducted at NREL
 
 # Purpose
