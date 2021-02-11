@@ -1,3 +1,5 @@
+![NRT Installed at SWiFT](Photos/NRT_Photos_6.jpeg)
+
 # NRT Summary
 - National Rotor Testbed design documentation is contained in this repository
 - Field experiments are ongoing at Sandia/DOE SWiFT Facility, Lubbock, Texas
