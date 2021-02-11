@@ -57,11 +57,11 @@
 - Airfoils operate at a lift coefficient of 0.6 in region 2
 
 # Structural Design
-- [Structural Design Summary in excel format](https://github.com/ckelley2/NRT/blob/main/Structure/169.05.02.001-B-Aero+Structure%20Design%20Summary.xlsx?raw=true)
-- [Material Properties and Standards](https://github.com/ckelley2/NRT/blob/main/Structure/169.03.03.001-A_Sandia_13.0m%20Blade%20Materials%20and%20Test%20Standards_2016-02-....xlsx?raw=true)
-- [Mass, Stiffness, and Modal Analysis](https://github.com/ckelley2/NRT/raw/main/Structure/WEI%20169.03.06.001-B-Sandia%2013m%20Blade_Structural%20Analysis%20Summary.pdf)
-- [3D CAD Models](https://github.com/ckelley2/NRT/tree/main/Structure/3D%20CAD%20Models)
-- [Manufacturing Drawings](https://github.com/ckelley2/NRT/tree/main/Structure/Design%20Drawings)
+- [Structural Design Summary in excel format](Structure/169.05.02.001-B-Aero+Structure%20Design%20Summary.xlsx?raw=true)
+- [Material Properties and Standards](Structure/169.03.03.001-A_Sandia_13.0m%20Blade%20Materials%20and%20Test%20Standards_2016-02-....xlsx?raw=true)
+- [Mass, Stiffness, and Modal Analysis](Structure/WEI%20169.03.06.001-B-Sandia%2013m%20Blade_Structural%20Analysis%20Summary.pdf)
+- [3D CAD Models](Structure/3D%20CAD%20Models)
+- [Manufacturing Drawings](Structure/Design%20Drawings)
 
 # SWiFT Site Documentation
 - Turbines
