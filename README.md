@@ -4,7 +4,7 @@
 <img align="right" width="250" src="Photos/NRT_Photos_small_7.jpeg">
 
 - National Rotor Testbed design documentation is contained in this repository
-- Field experiments are ongoing at Sandia/DOE SWiFT Facility, Lubbock, Texas
+- [Field experiment](https://www.osti.gov/servlets/purl/1489535) is ongoing at Sandia/DOE SWiFT Facility, Lubbock, Texas
 - Aerodynamic and instrumentation design by Sandia 
 - Final structural design and manufacturing drawings were provided by Wetzel Wind Energy Services
 - TPI Composites manufactured 4 NRT Blades
@@ -16,10 +16,11 @@
 - To be an open, well-documented, and highly instrumented wind turbine rotor design for model validation
 - To demonstrate new blade technology
 
-# Aeroelastic Model of the NRT Blades, drivetrain, tower
-- Simple controller model, tuned to match experimental region 2 performance  
+# Aeroelastic Model
 - Modelled in FAST version 7
+- Simple controller model, tuned to match experimental region 2 performance  
 - Blade masses updated to include ballast in balance boxes of each blade
+- Model will continue to be updated during ongoing NRT experiment
 - Please contact us for a detailed simulink model of the turbine controller
 
 # Blade Instrumentation 
