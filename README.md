@@ -51,6 +51,7 @@
 - S814 airfoil at maximum chord, c = 1.5 m
 - S825 airfoil across outer 50% of rotor span
 - Airfoils operate at a lift coefficient of 0.6 in region 2
+- [Detailed Report](https://www.osti.gov/biblio/1346410-aerodynamic-design-national-rotor-testbed)
 
 # Structural Design
 <img align="right" width="300" src="Images/NRT_Drawing.png">
