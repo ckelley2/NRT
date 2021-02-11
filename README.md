@@ -19,7 +19,8 @@
 - Modelled in [FAST version 7](https://www.nrel.gov/wind/nwtc/fastv7.html)
 - Please contact us for Advanced simulink model of turbine controller
 
-# Blade Instrumentation <img align="right" width="300" src="Images/NRT_Sensors2.png">
+# Blade Instrumentation 
+<img align="right" width="300" src="Images/NRT_Sensors2.png">
 - Strain gages:
   - Micron Optics Fiber Optic OS3200
   - every 45 degrees at root, high/low pressure side outboard
