@@ -28,7 +28,7 @@
 
 - Strain gages:
   - Micron Optics Fiber Optic OS3200
-  - every 45 degrees at root, high/low pressure side outboard
+  - Spaced 45 degrees at root, high/low pressure side outboard
   - calibrated to measure aerodynamic bending moment
 - Accelerometers:
   - Silicon Designs 2470
@@ -52,14 +52,14 @@
 
 # Aerodynamic Design
 - Same axial induction as GE 1.5sle for region 2 operation
-- S814 airfoil at maximum chord, 1.5 m
+- S814 airfoil at maximum chord, c = 1.5 m
 - S825 airfoil across outer 50% of rotor span
 - Airfoils operate at a lift coefficient of 0.6 in region 2
 
 # SWiFT Site Documentation
 - Turbines
 - Instrumentation
-- Wind Resource
+- [Wind Resource](https://www.osti.gov/biblio/1237403-swift-site-atmospheric-characterization)
 
 # Point of Contact
 Chris Kelley  
