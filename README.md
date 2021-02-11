@@ -21,14 +21,14 @@
 
 # Blade Instrumentation <img align="right" width="300" src="Images/NRT_Sensors2.png">
 - Strain gages:
- - Micron Optics Fiber Optic OS3200
- - every 45 degrees at root, high/low pressure side outboard
- - calibrated to measure aerodynamic bending moment
+  - Micron Optics Fiber Optic OS3200
+  - every 45 degrees at root, high/low pressure side outboard
+  - calibrated to measure aerodynamic bending moment
 - Accelerometers:
- - Silicon Designs 2470
+  - Silicon Designs 2470
 - Blade Temperature:
- - Micron Optics Fiber Optic OS4300
- - to compensate for thermal strain
+  - Micron Optics Fiber Optic OS4300
+  - to compensate for thermal strain
 
 # Blade Properties
 - Length: 13 m
