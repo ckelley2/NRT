@@ -2,6 +2,7 @@
 
 # NRT Summary 
 <img align="right" width="250" src="Photos/NRT_Photos_small_7.jpeg">
+
 - National Rotor Testbed design documentation is contained in this repository
 - Field experiments are ongoing at Sandia/DOE SWiFT Facility, Lubbock, Texas
 - Aerodynamic and instrumentation design by Sandia 
@@ -16,12 +17,14 @@
 - To demonstrate new blade technology
 
 # Aeroelastic Model of the NRT Blades, drivetrain, tower
-- Simple controller model, tuned to match region 2 performance  
-- Modelled in [FAST version 7](https://www.nrel.gov/wind/nwtc/fastv7.html)
-- Please contact us for Advanced simulink model of turbine controller
+- Simple controller model, tuned to match experimental region 2 performance  
+- Modelled in FAST version 7
+- Blade masses updated to include ballast in balance boxes of each blade
+- Please contact us for a detailed simulink model of the turbine controller
 
 # Blade Instrumentation 
 <img align="right" width="300" src="Images/NRT_Sensors2.png">
+
 - Strain gages:
   - Micron Optics Fiber Optic OS3200
   - every 45 degrees at root, high/low pressure side outboard
