@@ -1,5 +1,3 @@
-[test](Structure/Design%20Drawings/)
-
 # NRT Summary 
 <img align="right" width="250" src="Photos/NRT_Photos_small_7.jpeg">
 
@@ -12,7 +10,7 @@
 - Structural testing conducted at NREL
 
 # Purpose
-- To conduct wind turbine wake research relevant to megawatt scale turbines
+- To conduct wind turbine wake experiments relevant to megawatt scale turbines
 - To be an open, well-documented, and highly instrumented wind turbine rotor design for model validation
 - To demonstrate new blade technology
 
