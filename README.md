@@ -57,9 +57,9 @@
 - Airfoils operate at a lift coefficient of 0.6 in region 2
 
 # Structural Design
-- [Structural Design Summary in excel format](Structure/169.05.02.001-B-Aero+Structure Design Summary.xlsx)
-- [Material Properties and Standards](Structure/169.03.03.001-A_Sandia_13.0m Blade Materials and Test Standards_2016-02-....xlsx)
-- [Mass, Stiffness, and Modal Analysis](Structure/WEI 169.03.06.001-B-Sandia 13m Blade_Structural Analysis Summary.pdf)
+- [Structural Design Summary in excel format](169.05.02.001-B-Aero+Structure Design Summary.xlsx)
+- [Material Properties and Standards](169.03.03.001-A_Sandia_13.0m Blade Materials and Test Standards_2016-02-....xlsx)
+- [Mass, Stiffness, and Modal Analysis](WEI 169.03.06.001-B-Sandia 13m Blade_Structural Analysis Summary.pdf)
 
 # SWiFT Site Documentation
 - Turbines
