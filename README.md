@@ -43,6 +43,7 @@
 - Blade Mass: 551 kg per blade, including balance box ballast 
 - Blade center of gravity: 4.04 m from root
 - Construction: Fiberglass spar and skin
+- Surface Roughness (Painted): Ra = 0.45 𝜇m, Rz = 2.57 𝜇m
 
 # Regions of Operation
 - Region 2:   3--8 m/s, 12--3x rpm, TSR = 9
