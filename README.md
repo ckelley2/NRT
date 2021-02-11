@@ -1,5 +1,5 @@
 
-<img src="Photos/NRT_Photos_small_7.jpeg" width="400">
+<img src="Photos/NRT_Photos_small_7.jpeg" width="200">
 
 # NRT Summary
 - National Rotor Testbed design documentation is contained in this repository
