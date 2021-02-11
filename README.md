@@ -16,7 +16,7 @@
 
 # Aeroelastic Model
 - Modelled in FAST version 7
-- Simple controller model, tuned to match experimental region 2 performance  
+- Simple controller model, torque proportional to the square of rotor speed  
 - Blade masses updated to include ballast in balance boxes of each blade
 - Model will continue to be updated during ongoing NRT experiment
 - Please contact us for a detailed simulink model of the turbine controller
