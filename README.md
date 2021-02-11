@@ -68,8 +68,12 @@
 Chris Kelley  
 clkell@sandia.gov
 
-# How to Cite
+# References
 C. Kelley, "Aerodynamic Design of the National Rotor Testbed," Sandia National Laboratories Technical Report, [SAND2015-8989](https://www.osti.gov/biblio/1346410-aerodynamic-design-national-rotor-testbed).  
+
+C. Kelley, B. Naughton, "NRT Design Verification Test Plan," Sandia National Laboratories Technical Report, [SAND2018-14254](https://www.osti.gov/biblio/1346410-aerodynamic-design-national-rotor-testbed).  
+
+
 
 
 # Copyright
