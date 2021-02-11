@@ -1,4 +1,4 @@
-![NRT Installed at SWiFT](Photos/NRT_Photos_small_6.jpeg =150x)
+![NRT Installed at SWiFT](Photos/NRT_Photos_small_5.jpeg)
 
 # NRT Summary
 - National Rotor Testbed design documentation is contained in this repository
