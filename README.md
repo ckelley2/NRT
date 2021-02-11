@@ -56,12 +56,6 @@
 - S825 airfoil across outer 50% of rotor span
 - Airfoils operate at a lift coefficient of 0.6 in region 2
 
-# Blade Testing at NREL
-
-# Oakridge 3D Printed Mold
-
-# Wetzel Wind Services
-
 # SWiFT Site Documentation
 - Turbines
 - Instrumentation
