@@ -19,14 +19,15 @@
 - Modelled in [FAST version 7](https://www.nrel.gov/wind/nwtc/fastv7.html)
 - Please contact us for Advanced simulink model of turbine controller
 
-# Blade Instrumentation
+# Blade Instrumentation <img align="right" width="400" src="Images/NRT_Sensors2.png">
 - Strain gages at 4 spanwise locations, calibrated to measure aerodynamic bending moment
 - Accelerometers at 2 spanwise locations
 - Temperature at 4 spanwise locations, to compensate for thermal strain
 
 # Blade Properties
 - Length: 13 m
-- Mass: 550 kg pr blade, including balance box ballast 
+- Blade Mass: 551 kg per blade, including balance box ballast 
+- Blade center of gravity: 4.04 m from root
 - Construction: Fiberglass spar and skin
 
 # Regions of Operation
