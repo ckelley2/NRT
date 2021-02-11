@@ -78,6 +78,6 @@ Copyright 2020 National Technology & Engineering Solutions of Sandia,
 LLC (NTESS). Under the terms of Contract DE-NA0003525 with NTESS, the U.S. 
 Government retains certain rights.
  
-NRT Design Documentation is distributed in the hope that it will be useful, but WITHOUT ANY 
-WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A 
-PARTICULAR PURPOSE.
+NRT design documentation is distributed in the hope that it will be useful, but without any 
+warranty; without even the implied warranty of merchantability or fitness for a 
+particular purpose.
