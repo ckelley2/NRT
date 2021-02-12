@@ -47,11 +47,13 @@
 - Region 3:   11-20 m/s, 43.9 rpm
 
 # Aerodynamic Design
+<img align="right" width="300" src="Images/Airfoil_Polars.png">
+
 - Same axial induction as GE 1.5sle for region 2 operation
 - S814 airfoil at maximum chord, c = 1.5 m
 - S825 airfoil across outer 50% of rotor span
 - Airfoils operate at a lift coefficient of 0.6 in region 2
-- [Detailed Report](https://www.osti.gov/biblio/1346410-aerodynamic-design-national-rotor-testbed)
+- [Technical Report](https://www.osti.gov/biblio/1346410-aerodynamic-design-national-rotor-testbed)
 
 # Structural Design
 <img align="right" width="300" src="Images/NRT_Drawing.png">
@@ -61,7 +63,7 @@
 - [Mass, Stiffness, and Modal Analysis Report (.pdf)](Structure/WEI%20169.03.06.001-B-Sandia%2013m%20Blade_Structural%20Analysis%20Summary.pdf)
 - [3D CAD Models](Structure/3D%20CAD%20Models)
 - [Manufacturing Drawings](Structure/Design%20Drawings)
-- Note, the root plane was cut to add 0.5° of forward sweep to reduce nose down pitching moment
+- Note, the root plane was cut to add 0.5° of forward sweep to reduce nose down pitching moment about the blade pitch axis
 
 # Static Test at NREL Structural Testing Lab
 - Proof Tests:
@@ -69,7 +71,7 @@
   - maximum and mininum flap loads
   - fatigue test in flap direction
   - ultimate flapwise load to failure
-- [Report (.pdf)](Documents/NRT%20Blade%20Laboratory%20Structural%20Test%20Report.pdf)
+- [Technical Report (.pdf)](Documents/NRT%20Blade%20Laboratory%20Structural%20Test%20Report.pdf)
 
 # SWiFT Site Documentation
 - Turbines
