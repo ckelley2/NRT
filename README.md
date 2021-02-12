@@ -51,7 +51,7 @@
 <img align="right" width="300" src="Images/Airfoil_Polars.png">
 
 - [Technical Report](https://www.osti.gov/biblio/1346410-aerodynamic-design-national-rotor-testbed)
-- Same axial induction as GE 1.5sle for region 2 operation
+- Same axial induction as GE 1.5sle for region 2 operation to create scaled wake
 - [S825](https://www.nrel.gov/docs/fy05osti/36346.pdf) airfoil across outer 50% of rotor span
 - [S814](https://wind.nrel.gov/airfoils/documents/S814_WTtest_OCR.pdf) airfoil at maximum chord, c = 1.5 m
 - Airfoils operate at a lift coefficient of 0.6 in region 2
