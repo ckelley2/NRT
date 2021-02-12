@@ -18,6 +18,7 @@
 - Modelled in FAST version 7
 - Simple controller model, torque proportional to the square of rotor speed  
 - Blade masses updated to include ballast in balance boxes of each blade
+- Airfoil lift, drag, and moment data from experimental wind tunnel testing 
 - Model will continue to be updated during ongoing NRT experiment
 - Please contact us for a detailed simulink model of the turbine controller
 
@@ -49,29 +50,30 @@
 # Aerodynamic Design
 <img align="right" width="300" src="Images/Airfoil_Polars.png">
 
-- Same axial induction as GE 1.5sle for region 2 operation
-- S814 airfoil at maximum chord, c = 1.5 m
-- S825 airfoil across outer 50% of rotor span
-- Airfoils operate at a lift coefficient of 0.6 in region 2
 - [Technical Report](https://www.osti.gov/biblio/1346410-aerodynamic-design-national-rotor-testbed)
+- Same axial induction as GE 1.5sle for region 2 operation
+- [S825](https://www.nrel.gov/docs/fy05osti/36346.pdf) airfoil across outer 50% of rotor span
+- [S814](https://wind.nrel.gov/airfoils/documents/S814_WTtest_OCR.pdf) airfoil at maximum chord, c = 1.5 m
+- Airfoils operate at a lift coefficient of 0.6 in region 2
+
 
 # Structural Design
 <img align="right" width="300" src="Images/NRT_Drawing.png">
 
+- [Mass, Stiffness, and Modal Analysis Report (.pdf)](Structure/WEI%20169.03.06.001-B-Sandia%2013m%20Blade_Structural%20Analysis%20Summary.pdf)
 - [Beam Properties (.xlsx)](Structure/169.05.02.001-B-Aero+Structure%20Design%20Summary.xlsx?raw=true)
 - [Material Properties and Standards (.xlsx)](Structure/169.03.03.001-A_Sandia_13.0m%20Blade%20Materials%20and%20Test%20Standards_2016-02-....xlsx?raw=true)
-- [Mass, Stiffness, and Modal Analysis Report (.pdf)](Structure/WEI%20169.03.06.001-B-Sandia%2013m%20Blade_Structural%20Analysis%20Summary.pdf)
 - [3D CAD Models](Structure/3D%20CAD%20Models)
 - [Manufacturing Drawings](Structure/Design%20Drawings)
 - Note, the root plane was cut to add 0.5° of forward sweep to reduce nose down pitching moment about the blade pitch axis
 
 # Static Test at NREL Structural Testing Lab
+- [Technical Report (.pdf)](Documents/NRT%20Blade%20Laboratory%20Structural%20Test%20Report.pdf)
 - Proof Tests:
   - maximum and mininum edge loads
   - maximum and mininum flap loads
   - fatigue test in flap direction
   - ultimate flapwise load to failure
-- [Technical Report (.pdf)](Documents/NRT%20Blade%20Laboratory%20Structural%20Test%20Report.pdf)
 
 # SWiFT Site Documentation
 - Turbines
