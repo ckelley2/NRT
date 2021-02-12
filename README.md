@@ -63,6 +63,14 @@
 - [Manufacturing Drawings](Structure/Design%20Drawings)
 - Note, the root plane was cut to add 0.5° of forward sweep to reduce nose down pitching moment
 
+# Static Test at NREL Structural Testing Lab
+- Proof Tests:
+  - maximum and mininum edge loads
+  - maximum and mininum flap loads
+  - fatigue test in flap direction
+  - ultimate flapwise load to failure
+- [Report (.pdf)](Documents/NRT%20Blade%20Laboratory%20Structural%20Test%20Report.pdf)
+
 # SWiFT Site Documentation
 - Turbines
 - Instrumentation
