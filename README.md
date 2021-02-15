@@ -1,5 +1,5 @@
 # NRT Summary 
-<img align="right" width="250" src="Photos/NRT_Photos_small_7.jpeg">
+<img align="right" width="300" src="Photos/NRT_Photos_small_7.jpeg">
 
 - National Rotor Testbed design documentation is contained in this repository
 - [Field experiment](https://www.osti.gov/servlets/purl/1489535) is ongoing at Sandia/DOE SWiFT Facility, Lubbock, Texas
@@ -23,7 +23,7 @@
 - Please contact us for a detailed simulink model of the turbine controller
 
 # Blade Instrumentation 
-<img align="right" width="400" src="Images/NRT_Sensors2.png">
+<img align="right" width="500" src="Images/NRT_Sensors2.png">
 
 - Strain gages:
   - Micron Optics Fiber Optic OS3200
@@ -43,21 +43,21 @@
 - Surface Roughness (Painted): Ra = 0.45 𝜇m, Rz = 2.57 𝜇m
 
 # Regions of Operation
-<img align="right" width="300" src="Images/FAST_rotor_speed.png"> 
+<img align="right" width="500" src="Images/FAST_rotor_speed.png"> 
 
 - Region 2:   4--6.9 m/s, 25.9--43.6 rpm, TSR = 9
 - Region 2.5: 6.9--11.4 m/s, 43.6--43.9 rpm
 - Region 3:   11.4-20 m/s, 43.9 rpm <br/> <br/> <br/> <br/>  <br/>  <br/>
 
 # Aerodynamic Design
-<img align="right" width="400" src="Images/Airfoil_Polars.png"> <br/>
+
 
 - [Technical Report](https://www.osti.gov/biblio/1346410-aerodynamic-design-national-rotor-testbed)
 - Same axial induction as GE 1.5sle for region 2 operation to create scaled wake
 - [S825](https://www.nrel.gov/docs/fy05osti/36346.pdf) airfoil across outer 50% of rotor span
 - [S814](https://wind.nrel.gov/airfoils/documents/S814_WTtest_OCR.pdf) airfoil at maximum chord, c = 1.5 m
 - Airfoils operate at a lift coefficient of 0.6 in region 2
-
+<img align="center" width="500" src="Images/Airfoil_Polars.png"> <br/>
 
 # Structural Design
 
