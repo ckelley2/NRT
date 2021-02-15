@@ -47,7 +47,7 @@
 
 - Region 2:   4--6.9 m/s, 25.9--43.6 rpm, TSR = 9
 - Region 2.5: 6.9--11.4 m/s, 43.6--43.9 rpm
-- Region 3:   11.4-20 m/s, 43.9 rpm <br/> <br/> <br/> <br/>
+- Region 3:   11.4-20 m/s, 43.9 rpm <br/> <br/> <br/> <br/>  <br/>  <br/>
 
 # Aerodynamic Design
 <img align="right" width="400" src="Images/Airfoil_Polars.png"> <br/>
