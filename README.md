@@ -46,8 +46,7 @@
 - Region 2:   4--6.9 m/s, 25.9--43.6 rpm, TSR = 9
 - Region 2.5: 6.9--11.4 m/s, 43.6--43.9 rpm
 - Region 3:   11.4-20 m/s, 43.9 rpm   
-
-
+  
 <img align="center" width="500" src="Images/FAST_rotor_speed.png"> 
 
 # Aerodynamic Design
@@ -57,19 +56,20 @@
 - Same axial induction as GE 1.5sle for region 2 operation to create scaled wake
 - [S825](https://www.nrel.gov/docs/fy05osti/36346.pdf) airfoil across outer 50% of rotor span
 - [S814](https://wind.nrel.gov/airfoils/documents/S814_WTtest_OCR.pdf) airfoil at maximum chord, c = 1.5 m
-- Airfoils operate at a lift coefficient of 0.6 in region 2
+- Airfoils operate at a lift coefficient of 0.6 in region 2  
+
 <img align="center" width="500" src="Images/Airfoil_Polars.png"> <br/>
 
 # Structural Design
-
-<img align="right" width="400" src="Images/NRT_Drawing.png">
-
 - [Mass, Stiffness, and Modal Analysis Report (.pdf)](Structure/WEI%20169.03.06.001-B-Sandia%2013m%20Blade_Structural%20Analysis%20Summary.pdf)
 - [Beam Properties (.xlsx)](Structure/169.05.02.001-B-Aero+Structure%20Design%20Summary.xlsx?raw=true)
 - [Material Properties and Standards (.xlsx)](Structure/169.03.03.001-A_Sandia_13.0m%20Blade%20Materials%20and%20Test%20Standards_2016-02-....xlsx?raw=true)
 - [3D CAD Models](Structure/3D%20CAD%20Models)
 - [Manufacturing Drawings](Structure/Design%20Drawings)
 - Note, the root plane was cut to add 0.5° of forward sweep to reduce nose down pitching moment about the blade pitch axis
+
+<img align="right" width="400" src="Images/NRT_Drawing.png">
+  
 
 # Static Test at NREL Structural Testing Lab
 - [Technical Report (.pdf)](Documents/NRT%20Blade%20Laboratory%20Structural%20Test%20Report.pdf)
