@@ -23,8 +23,6 @@
 - Please contact us for a detailed simulink model of the turbine controller
 
 # Blade Instrumentation 
-<img align="right" width="500" src="Images/NRT_Sensors2.png">
-
 - Strain gages:
   - Micron Optics Fiber Optic OS3200
   - Spaced 45 degrees at root, high/low pressure side outboard
@@ -34,6 +32,8 @@
 - Blade Temperature:
   - Micron Optics Fiber Optic OS4300
   - to compensate for thermal strain
+  
+  <img align="left" width="500" src="Images/NRT_Sensors2.png">
 
 # Blade Properties
 - Length: 13 m
@@ -47,7 +47,7 @@
 - Region 2.5: 6.9--11.4 m/s, 43.6--43.9 rpm
 - Region 3:   11.4-20 m/s, 43.9 rpm   
   
-<img align="center" width="500" src="Images/FAST_rotor_speed.png"> 
+<img align="left" width="500" src="Images/FAST_rotor_speed.png"> 
 
 # Aerodynamic Design
 
@@ -58,7 +58,7 @@
 - [S814](https://wind.nrel.gov/airfoils/documents/S814_WTtest_OCR.pdf) airfoil at maximum chord, c = 1.5 m
 - Airfoils operate at a lift coefficient of 0.6 in region 2  
 
-<img align="center" width="500" src="Images/Airfoil_Polars.png"> <br/>
+<img align="left" width="500" src="Images/Airfoil_Polars.png"> <br/>
 
 # Structural Design
 - [Mass, Stiffness, and Modal Analysis Report (.pdf)](Structure/WEI%20169.03.06.001-B-Sandia%2013m%20Blade_Structural%20Analysis%20Summary.pdf)
