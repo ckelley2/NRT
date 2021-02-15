@@ -33,7 +33,7 @@
   - Micron Optics Fiber Optic OS4300
   - to compensate for thermal strain
   
-  <img align="left" width="500" src="Images/NRT_Sensors2.png">
+  <img align="center" width="500" src="Images/NRT_Sensors2.png">
 
 # Blade Properties
 - Length: 13 m
@@ -47,7 +47,7 @@
 - Region 2.5: 6.9--11.4 m/s, 43.6--43.9 rpm
 - Region 3:   11.4-20 m/s, 43.9 rpm   
   
-<img align="left" width="500" src="Images/FAST_rotor_speed.png"> 
+<img align="center" width="500" src="Images/FAST_rotor_speed.png"> 
 
 # Aerodynamic Design
 
@@ -58,7 +58,7 @@
 - [S814](https://wind.nrel.gov/airfoils/documents/S814_WTtest_OCR.pdf) airfoil at maximum chord, c = 1.5 m
 - Airfoils operate at a lift coefficient of 0.6 in region 2  
 
-<img align="left" width="500" src="Images/Airfoil_Polars.png"> <br/>
+<img align="center" width="500" src="Images/Airfoil_Polars.png"> <br/>
 
 # Structural Design
 - [Mass, Stiffness, and Modal Analysis Report (.pdf)](Structure/WEI%20169.03.06.001-B-Sandia%2013m%20Blade_Structural%20Analysis%20Summary.pdf)
@@ -68,7 +68,7 @@
 - [Manufacturing Drawings](Structure/Design%20Drawings)
 - Note, the root plane was cut to add 0.5° of forward sweep to reduce nose down pitching moment about the blade pitch axis
 
-<img align="right" width="400" src="Images/NRT_Drawing.png">
+<img align="center" width="400" src="Images/NRT_Drawing.png">
   
 
 # Static Test at NREL Structural Testing Lab
