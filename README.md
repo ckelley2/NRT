@@ -50,7 +50,7 @@
 - Region 3:   11.4-20 m/s, 43.9 rpm <br/> <br/> <br/> <br/>
 
 # Aerodynamic Design
-<img align="right" width="400" src="Images/Airfoil_Polars.png">
+<img align="right" width="400" src="Images/Airfoil_Polars.png"> <br/>
 
 - [Technical Report](https://www.osti.gov/biblio/1346410-aerodynamic-design-national-rotor-testbed)
 - Same axial induction as GE 1.5sle for region 2 operation to create scaled wake
