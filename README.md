@@ -47,7 +47,7 @@
 - Region 2.5: 6.9--11.4 m/s, 43.6--43.9 rpm
 - Region 3:   11.4-20 m/s, 43.9 rpm   
   
-<img align="center" width="500" src="Images/FAST_rotor_speed.png"> 
+<img align="center" width="400" src="Images/FAST_rotor_speed.png"> 
 
 # Aerodynamic Design
 
