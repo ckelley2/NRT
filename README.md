@@ -33,7 +33,7 @@
   - Micron Optics Fiber Optic OS4300
   - to compensate for thermal strain
   
-  <img align="center" width="500" src="Images/NRT_Sensors2.png">
+  <img align="right" width="500" src="Images/NRT_Sensors2.png">
 
 # Blade Properties
 - Length: 13 m
@@ -68,7 +68,7 @@
 - [Manufacturing Drawings](Structure/Design%20Drawings)
 - Note, the root plane was cut to add 0.5° of forward sweep to reduce nose down pitching moment about the blade pitch axis
 
-<img align="center" width="400" src="Images/NRT_Drawing.png">
+<img align="center" width="500" src="Images/NRT_Drawing.png">
   
 
 # Static Test at NREL Structural Testing Lab
