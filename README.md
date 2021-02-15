@@ -23,7 +23,7 @@
 - Please contact us for a detailed simulink model of the turbine controller
 
 # Blade Instrumentation 
-<img align="right" width="200" src="Images/NRT_Sensors2.png">
+<img align="right" width="300" src="Images/NRT_Sensors2.png">
 
 - Strain gages:
   - Micron Optics Fiber Optic OS3200
@@ -43,7 +43,7 @@
 - Surface Roughness (Painted): Ra = 0.45 𝜇m, Rz = 2.57 𝜇m
 
 # Regions of Operation
-<img align="right" width="300" src="Images/FAST_rotor_speed.png">
+<img align="right" width="200" src="Images/FAST_rotor_speed.png">
 
 - Region 2:   4--6.9 m/s, 25.9--43.6 rpm, TSR = 9
 - Region 2.5: 6.9--11.4 m/s, 43.6--43.9 rpm
