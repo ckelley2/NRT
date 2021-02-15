@@ -23,7 +23,7 @@
 - Please contact us for a detailed simulink model of the turbine controller
 
 # Blade Instrumentation 
-<img align="right" width="300" src="Images/NRT_Sensors2.png">
+<img align="right" width="400" src="Images/NRT_Sensors2.png">
 
 - Strain gages:
   - Micron Optics Fiber Optic OS3200
@@ -43,14 +43,14 @@
 - Surface Roughness (Painted): Ra = 0.45 𝜇m, Rz = 2.57 𝜇m
 
 # Regions of Operation
-<img align="right" width="200" src="Images/FAST_rotor_speed.png">
+<img align="right" width="300" src="Images/FAST_rotor_speed.png">
 
 - Region 2:   4--6.9 m/s, 25.9--43.6 rpm, TSR = 9
 - Region 2.5: 6.9--11.4 m/s, 43.6--43.9 rpm
 - Region 3:   11.4-20 m/s, 43.9 rpm
 
 # Aerodynamic Design
-<img align="right" width="300" src="Images/Airfoil_Polars.png">
+<img align="right" width="400" src="Images/Airfoil_Polars.png">
 
 - [Technical Report](https://www.osti.gov/biblio/1346410-aerodynamic-design-national-rotor-testbed)
 - Same axial induction as GE 1.5sle for region 2 operation to create scaled wake
@@ -60,7 +60,7 @@
 
 
 # Structural Design
-<img align="right" width="300" src="Images/NRT_Drawing.png">
+<img align="right" width="400" src="Images/NRT_Drawing.png">
 
 - [Mass, Stiffness, and Modal Analysis Report (.pdf)](Structure/WEI%20169.03.06.001-B-Sandia%2013m%20Blade_Structural%20Analysis%20Summary.pdf)
 - [Beam Properties (.xlsx)](Structure/169.05.02.001-B-Aero+Structure%20Design%20Summary.xlsx?raw=true)
