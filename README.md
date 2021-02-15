@@ -50,6 +50,7 @@
 - Region 3:   11.4-20 m/s, 43.9 rpm
 
 # Aerodynamic Design
+
 <img align="right" width="400" src="Images/Airfoil_Polars.png">
 
 - [Technical Report](https://www.osti.gov/biblio/1346410-aerodynamic-design-national-rotor-testbed)
@@ -60,6 +61,7 @@
 
 
 # Structural Design
+
 <img align="right" width="400" src="Images/NRT_Drawing.png">
 
 - [Mass, Stiffness, and Modal Analysis Report (.pdf)](Structure/WEI%20169.03.06.001-B-Sandia%2013m%20Blade_Structural%20Analysis%20Summary.pdf)
