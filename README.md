@@ -43,9 +43,11 @@
 - Surface Roughness (Painted): Ra = 0.45 𝜇m, Rz = 2.57 𝜇m
 
 # Regions of Operation
-- Region 2:   3--8 m/s, 12--3x rpm, TSR = 9
-- Region 2.5: 8--11 m/s, 3x--43.9 rpm
-- Region 3:   11-20 m/s, 43.9 rpm
+<img align="right" width="300" src="Images/FAST_rotor_speed.png">
+
+- Region 2:   4--6.9 m/s, 25.9--43.6 rpm, TSR = 9
+- Region 2.5: 6.9--11.4 m/s, 43.6--43.9 rpm
+- Region 3:   11.4-20 m/s, 43.9 rpm
 
 # Aerodynamic Design
 <img align="right" width="300" src="Images/Airfoil_Polars.png">
