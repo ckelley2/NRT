@@ -14,8 +14,8 @@
 - To be an open, well-documented, and highly instrumented wind turbine rotor design for model validation
 - To demonstrate new blade technology
 
-# Aeroelastic Model
-- Modelled in FAST version 7
+# [Aeroelastic Model](FAST_v7/)
+- Modelled in [FAST version 7](https://www.nrel.gov/wind/nwtc/fastv7.html)
 - Simple controller model, torque proportional to the square of rotor speed  
 - Blade masses updated to include ballast in balance boxes of each blade
 - Airfoil lift, drag, and moment data from experimental wind tunnel testing 
