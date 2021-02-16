@@ -67,6 +67,7 @@
 - [3D CAD Models](Structure/3D%20CAD%20Models)
 - [Manufacturing Drawings](Structure/Design%20Drawings)
 - Note, the root plane was cut to add 0.5° of forward sweep to reduce nose down pitching moment about the blade pitch axis
+- Initial structural design at Sandia in 2015 (superseded by Wetzel design)[https://www.osti.gov/biblio/1225852-nrt-rotor-structural-aeroelastic-analysis-preliminary-design-review]
 
 <img align="center" width="500" src="Images/NRT_Drawing.png">
   
@@ -94,6 +95,8 @@ C. Kelley, "Aerodynamic Design of the National Rotor Testbed," Sandia National L
 C. Kelley, B. Naughton, "NRT Design Verification Test Plan," Sandia National Laboratories Technical Report, [SAND2018-14254](https://www.osti.gov/biblio/1346410-aerodynamic-design-national-rotor-testbed).  
 
 C. Kelley, "National Rotor Testbed Overview for DOE Science Panel," Project Presentation, [SAND2017-4446PE](https://www.osti.gov/servlets/purl/1431697).
+
+B. Ennis, J. Paquette, "NRT Rotor Structural/Aeroelastic Analysisfor the Preliminary Design Review," Sandia National Laboratories Technical Report, [SAND2015-9358](https://www.osti.gov/biblio/1225852-nrt-rotor-structural-aeroelastic-analysis-preliminary-design-review)
 
 
 # Copyright
