@@ -50,8 +50,6 @@
 <img align="center" width="350" src="Images/FAST_rotor_speed.png"> 
 
 # Aerodynamic Design
-
-
 - [Technical Report](https://www.osti.gov/biblio/1346410-aerodynamic-design-national-rotor-testbed)
 - Same axial induction as GE 1.5sle for region 2 operation to create scaled wake
 - [S825](https://www.nrel.gov/docs/fy05osti/36346.pdf) airfoil across outer 50% of rotor span
@@ -71,9 +69,9 @@
 <img align="center" width="500" src="Images/NRT_Drawing.png">
   
 # Static Test at NREL Structural Testing Lab
-<!---
+
 - [Report (.pdf)](Documents/NRT%20Blade%20Laboratory%20Structural%20Test%20Report.pdf)
--->
+
 
 - Proof Tests:
   - maximum and mininum edge loads
