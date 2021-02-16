@@ -69,10 +69,7 @@
 <img align="center" width="500" src="Images/NRT_Drawing.png">
   
 # Static Test at NREL Structural Testing Lab
-
 - [Report (.pdf)](Documents/NRT%20Blade%20Laboratory%20Structural%20Test%20Report.pdf)
-
-
 - Proof Tests:
   - maximum and mininum edge loads
   - maximum and mininum flap loads
