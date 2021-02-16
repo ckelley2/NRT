@@ -77,7 +77,7 @@
   - maximum and mininum edge loads
   - maximum and mininum flap loads
   - fatigue test in flap direction
-  - ultimate flapw load to failure
+  - ultimate flap load to failure
     
   <img align="center" width="500" src="Photos/Structural_Test.png">
   
