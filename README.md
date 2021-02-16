@@ -67,7 +67,7 @@
 - [3D CAD Models](Structure/3D%20CAD%20Models)
 - [Manufacturing Drawings](Structure/Design%20Drawings)
 - Note, the root plane was cut to add 0.5° of forward sweep to reduce nose down pitching moment about the blade pitch axis
-- Initial structural design [report]([https://www.osti.gov/biblio/1225852-nrt-rotor-structural-aeroelastic-analysis-preliminary-design-review]) at Sandia in 2015, superseded by Wetzel structural design
+- Initial structural design [report](https://www.osti.gov/biblio/1225852-nrt-rotor-structural-aeroelastic-analysis-preliminary-design-review) at Sandia in 2015, superseded by Wetzel structural design
 
 <img align="center" width="500" src="Images/NRT_Drawing.png">
   
