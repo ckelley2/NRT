@@ -21,6 +21,7 @@
 - Airfoil lift, drag, and moment data from experimental wind tunnel testing 
 - Model will continue to be updated during ongoing NRT experiment
 - Please contact us for a detailed simulink model of the turbine controller
+- Plotting scripts in matlab require [txt2mat](https://www.mathworks.com/matlabcentral/fileexchange/18430-txt2mat)
 
 # Blade Instrumentation 
 - Strain gages:
