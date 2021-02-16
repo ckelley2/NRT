@@ -69,7 +69,7 @@
 <img align="center" width="500" src="Images/NRT_Drawing.png">
   
 # Static Test at NREL Structural Testing Lab
-- [Report (.pdf)](Documents/NRT%20Blade%20Laboratory%20Structural%20Test%20Report.pdf)
+- [Test Report (.pdf)](Documents/NRT%20Blade%20Laboratory%20Structural%20Test%20Report.pdf)
 - Proof Tests:
   - maximum and mininum edge loads
   - maximum and mininum flap loads
@@ -92,9 +92,6 @@ C. Kelley, "Aerodynamic Design of the National Rotor Testbed," Sandia National L
 C. Kelley, B. Naughton, "NRT Design Verification Test Plan," Sandia National Laboratories Technical Report, [SAND2018-14254](https://www.osti.gov/biblio/1346410-aerodynamic-design-national-rotor-testbed).  
 
 C. Kelley, "National Rotor Testbed Overview for DOE Science Panel," Project Presentation, [SAND2017-4446PE](https://www.osti.gov/servlets/purl/1431697).
-
-
-
 
 # Copyright
 Copyright 2020 National Technology & Engineering Solutions of Sandia, 
