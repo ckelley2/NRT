@@ -56,6 +56,7 @@
 - [S825](https://www.nrel.gov/docs/fy05osti/36346.pdf) airfoil across outer 50% of rotor span
 - [S814](https://wind.nrel.gov/airfoils/documents/S814_WTtest_OCR.pdf) airfoil at maximum chord, c = 1.5 m
 - Airfoils operate at a lift coefficient of 0.6 in region 2  
+- [Overview of functional scaling (.pdf)](Documents/NRT_Functional_Scaling.pdf)
 
 <img align="center" width="500" src="Images/Airfoil_Polars.png"> <br/>
 
