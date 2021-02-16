@@ -78,9 +78,9 @@
   - maximum and mininum flap loads
   - fatigue test in flap direction
   - ultimate flapwise load to failure
-  
+    
   <img align="center" width="500" src="Photos/Structural_Test.png">
-
+  
 # SWiFT Site Documentation
 - [SWiFT Site Overview](https://energy.sandia.gov/programs/renewable-energy/wind-power/wind_plant_opt/)
 - [Wind Resource](https://www.osti.gov/biblio/1237403-swift-site-atmospheric-characterization)
