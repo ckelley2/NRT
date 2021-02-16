@@ -71,6 +71,8 @@
 <img align="center" width="500" src="Images/NRT_Drawing.png">
   
 
+[//]: # (This may be the most platform independent comment)
+
 # Static Test at NREL Structural Testing Lab
 - [Technical Report (.pdf)](Documents/NRT%20Blade%20Laboratory%20Structural%20Test%20Report.pdf)
 - Proof Tests:
