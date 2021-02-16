@@ -95,7 +95,6 @@ C. Kelley, B. Naughton, "NRT Design Verification Test Plan," Sandia National Lab
 
 C. Kelley, "National Rotor Testbed Overview for DOE Science Panel," Project Presentation, [SAND2017-4446PE](https://www.osti.gov/servlets/purl/1431697).
 
-C. Kelley, "National RotorTestbed Overview for DOE Science Panel," SAND2017-4446PE, 2017.
 
 # Copyright
 Copyright 2020 National Technology & Engineering Solutions of Sandia, 
