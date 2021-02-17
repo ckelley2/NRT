@@ -33,7 +33,7 @@
 - Blade Temperature:
   - Micron Optics Fiber Optic OS4300
   - to compensate for thermal strain
-  
+- All three blades have same sensors  
   <img align="center" width="500" src="Images/NRT_Sensors2.png">
 
 # Blade Properties
