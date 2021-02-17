@@ -84,7 +84,7 @@
   
 # SWiFT Site Documentation
 - [SWiFT Site Overview](https://energy.sandia.gov/programs/renewable-energy/wind-power/wind_plant_opt/)
-- [Wind Resource](https://www.osti.gov/biblio/1237403-swift-site-atmospheric-characterization)
+- [Wind Resource Assessment and Characterization](https://www.osti.gov/biblio/1237403-swift-site-atmospheric-characterization)
 
 # Point of Contact
 Chris Kelley  
