@@ -52,7 +52,8 @@
 
 # Aerodynamic Design
 - [Technical Report](https://www.osti.gov/biblio/1346410-aerodynamic-design-national-rotor-testbed)
-- Create scaled wake of GE 1.5sle (GE37c blade) by having the same axial induction and dimensionless circulation, across rotor normalized radius in region 2
+- Create scaled wake of GE 1.5sle (GE37c blade) by having the same axial induction (a) and dimensionless circulation across rotor normalized radius in region 2
+- <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 - NRT and GE rotor also have equal thrust coefficient and tip-speed-ratio in region 2
 - [S825](https://www.nrel.gov/docs/fy05osti/36346.pdf) airfoil across outer 50% of rotor span
 - [S814](https://wind.nrel.gov/airfoils/documents/S814_WTtest_OCR.pdf) airfoil at maximum chord, c = 1.5 m
