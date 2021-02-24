@@ -17,6 +17,7 @@
 # [Aeroelastic Model](FAST_v7/)
 - Modelled in [FAST version 7](https://www.nrel.gov/wind/nwtc/fastv7.html)
 - Blade masses updated to include ballast in balance boxes of each blade
+- Edge, flap, and torsion rigidities
 - Airfoil lift, drag, and moment data from experimental wind tunnel testing 
 - Model will continue to be updated during ongoing NRT experiment
 - Simple controller model
