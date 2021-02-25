@@ -17,7 +17,7 @@
 # [Aeroelastic Model](FAST_v7/)
 - Modelled in [FAST version 7](https://www.nrel.gov/wind/nwtc/fastv7.html)
 - Blade aerodynamics including chord, twist, and airfoil locations in aerodyn file [FAST_v7/NRT_AD.ipt](FAST_v7/NRT_AD.ipt)
-- Blade structural properites including edge, flap, and torsional stiffness, area moments of inertia, and mass distribution in each blade file [FAST_v7/NRT_Blade1_as_built_balanced.dat](FAST_v7/NRT_Blade1_as_built_balanced.dat), [FAST_v7/NRT_Blade2_as_built_balanced.dat](FAST_v7/NRT_Blade2_as_built_balanced.dat), [FAST_v7/NRT_Blade3_as_built_balanced.dat](FAST_v7/NRT_Blade3_as_built_balanced.dat), 
+- Blade structural properites including edge, flap, tension, and torsional stiffness, area moments of inertia, and mass distribution in each blade file [FAST_v7/NRT_Blade1_as_built_balanced.dat](FAST_v7/NRT_Blade1_as_built_balanced.dat), [FAST_v7/NRT_Blade2_as_built_balanced.dat](FAST_v7/NRT_Blade2_as_built_balanced.dat), [FAST_v7/NRT_Blade3_as_built_balanced.dat](FAST_v7/NRT_Blade3_as_built_balanced.dat)
 - Blade masses updated to include ballast in balance boxes of each blade
 - Airfoil lift, drag, and moment data from experimental wind tunnel testing
 - Model will continue to be updated during ongoing NRT experiment
