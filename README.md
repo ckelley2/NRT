@@ -84,7 +84,14 @@
   - ultimate flap load to failure
     
   <img align="center" width="500" src="Photos/Structural_Test.png">
-  
+
+# Field Test
+- Verify blade loading distribution creates scaled wake of GE 1.5 sle 
+- Fine tune pitch setting to create scaled wake
+
+<img align="center" width="250" src="Images/Moment_Coefficient_Scaled_Wake.png">
+<img align="center" width="500" src="Images/Moment_Coefficient_Distribution.png">
+
 # SWiFT Site Documentation
 - [SWiFT Site Overview](https://energy.sandia.gov/programs/renewable-energy/wind-power/wind_plant_opt/)
 - [Wind Resource Assessment and Characterization](https://www.osti.gov/biblio/1237403-swift-site-atmospheric-characterization)
