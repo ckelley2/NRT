@@ -90,7 +90,7 @@
 - Fine tune pitch setting to create scaled wake
 - Fine tune torque constant to achieve <img src="https://render.githubusercontent.com/render/math?math=\lambda=9">
 - See [technical report](https://www.osti.gov/servlets/purl/1489535) for description of tuning process
-
+- Blade bending moment coefficients to achieve scaled wake (at reference air density) are as follows for discreet strain gage locations in thrust and edge directions
 <img align="center" width="300" src="Images/Moment_Coefficient_Scaled_Wake.png">
 <img align="center" width="500" src="Images/Moment_Coefficient_Distribution.png">
 
