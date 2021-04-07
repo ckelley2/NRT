@@ -110,7 +110,7 @@ C. Kelley, B. Naughton, "NRT Design Verification Test Plan," Sandia National Lab
 
 C. Kelley, "National Rotor Testbed Overview for DOE Science Panel," Project Presentation, [SAND2017-4446PE](https://www.osti.gov/servlets/purl/1431697).
 
-B. Ennis, J. Paquette, "NRT Rotor Structural/Aeroelastic Analysisfor the Preliminary Design Review," Sandia National Laboratories Technical Report, [SAND2015-9358](https://www.osti.gov/biblio/1225852-nrt-rotor-structural-aeroelastic-analysis-preliminary-design-review)
+B. Ennis, J. Paquette, "NRT Rotor Structural/Aeroelastic Analysis for the Preliminary Design Review," Sandia National Laboratories Technical Report, [SAND2015-9358](https://www.osti.gov/biblio/1225852-nrt-rotor-structural-aeroelastic-analysis-preliminary-design-review)
 
 
 # Copyright
