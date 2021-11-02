@@ -21,7 +21,7 @@
 - Blade mass distribution updated to include ballast in balance boxes of each blade
 - Airfoil lift, drag, and moment data from experimental wind tunnel testing by Somers
 - Model will continue to be updated during ongoing NRT experiment
-- Simple controller model
+- Simple controller model, variable speed, variable pitch
 - Please contact us for a detailed simulink model of the turbine controller
 - Plotting scripts in matlab require [txt2mat](https://www.mathworks.com/matlabcentral/fileexchange/18430-txt2mat)
 
