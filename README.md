@@ -1,4 +1,4 @@
-# NRT Summary 
+# NRT Design and Testing Documentation
 <img align="right" width="300" src="Photos/NRT_Photos_small_7.jpeg">
 
 - National Rotor Testbed design documentation is contained in this repository
