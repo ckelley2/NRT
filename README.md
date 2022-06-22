@@ -78,8 +78,8 @@
 - Conducted at NREL Structural Testing Lab
 - [Test Report (.pdf)](Documents/NRT%20Blade%20Laboratory%20Structural%20Test%20Report.pdf)
 - Proof Tests:
-  - maximum and mininum edge loads
-  - maximum and mininum flap loads
+  - maximum and minimum edge loads
+  - maximum and minimum flap loads
   - fatigue test in flap direction
   - ultimate flap load to failure
     
