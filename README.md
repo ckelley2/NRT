@@ -1,5 +1,5 @@
 # NRT Design and Testing Documentation
-<img align="right" width="300" height="450" src="Photos/NRT_Photos_small_7.jpeg">
+
 
 - National Rotor Testbed design documentation is contained in this repository
 - [Field experiment](https://www.osti.gov/servlets/purl/1489535) is ongoing at Sandia/DOE SWiFT Facility, Lubbock, Texas
@@ -8,7 +8,7 @@
 - Oakridge National Laboratory 3D printed the NRT blade mold
 - TPI Composites manufactured 4 NRT Blades
 - Structural testing conducted at NREL
-
+<img align="right" width="300" height="450" src="Photos/NRT_Photos_small_7.jpeg">
 
 
       
