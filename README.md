@@ -7,7 +7,11 @@
 - Final structural design and manufacturing drawings were provided by Wetzel Wind Energy Services
 - Oakridge National Laboratory 3D printed the NRT blade mold
 - TPI Composites manufactured 4 NRT Blades
-- Structural testing conducted at NREL  
+- Structural testing conducted at NREL
+
+
+
+      
 
 
 # Purpose
