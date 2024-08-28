@@ -1,5 +1,6 @@
 # NRT Design and Testing Documentation
-<img style="float: right;" src="Photos/NRT_Photos_small_7.jpeg">
+<img style="float: right;"  width="300" src="Photos/NRT_Photos_small_7.jpeg">
+
 - National Rotor Testbed design documentation is contained in this repository
 - [Field experiment](https://www.osti.gov/servlets/purl/1489535) is ongoing at Sandia/DOE SWiFT Facility, Lubbock, Texas
 - Aerodynamic and instrumentation design by Sandia 
