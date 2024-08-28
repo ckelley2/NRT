@@ -54,8 +54,8 @@
 
 # Aerodynamic Design
 - [Technical Report](https://www.osti.gov/biblio/1346410-aerodynamic-design-national-rotor-testbed)
-- Create scaled wake of GE 1.5sle (GE37c blade) by having the same axial induction <img src="https://render.githubusercontent.com/render/math?math=a"> and dimensionless circulation<img src="https://render.githubusercontent.com/render/math?math=\Gamma'">across the rotor normalized radius $\frac{r}{R}$ (<img src="https://render.githubusercontent.com/render/math?math=\frac{r}{R}">) in region 2
-- NRT and GE rotor also have equal thrust coefficient <img src="https://render.githubusercontent.com/render/math?math=C_T"> and tip-speed-ratio <img src="https://render.githubusercontent.com/render/math?math=\lambda = 9"> in region 2
+- Create scaled wake of GE 1.5sle (GE37c blade) by having the same axial induction, $a$, and dimensionless circulation, $\Gamma$,  across the rotor normalized radius, $\frac{r}{R}$, in region 2
+- NRT and GE rotor also have equal thrust coefficient $C_T$ and tip-speed-ratio $\lambda = 9$ in region 2
 - [S825](https://www.nrel.gov/docs/fy05osti/36346.pdf) airfoil across outer 50% of rotor span
 - [S814](https://wind.nrel.gov/airfoils/documents/S814_WTtest_OCR.pdf) airfoil at maximum chord, c = 1.5 m
 - Airfoils operate at a lift coefficient of 0.6 in region 2  
@@ -88,7 +88,7 @@
 # Field Test
 - Verify blade loading distribution creates scaled wake of GE 1.5 sle 
 - Fine tune pitch setting to create scaled wake
-- Fine tune torque constant to achieve <img src="https://render.githubusercontent.com/render/math?math=\lambda=9">
+- Fine tune torque constant to achieve \lambda=9$
 - See [technical report](https://www.osti.gov/servlets/purl/1489535) for description of tuning process
 - Blade bending moment coefficients to achieve scaled wake (at reference air density of 1.225 kg/m3) are as follows for discreet strain gage locations in thrust and edge directions
 - Wake Management demonstration showing a combination of yaw, induction, and [dynamic induction](https://arc.aiaa.org/doi/abs/10.2514/6.2021-1182) control
