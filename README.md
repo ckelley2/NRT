@@ -93,7 +93,7 @@
 # Field Test
 - Verify blade loading distribution creates scaled wake of GE 1.5 sle 
 - Fine tune pitch setting to create scaled wake
-- Fine tune torque constant to achieve \lambda=9$
+- Fine tune torque constant to achieve $\lambda=9$
 - See [technical report](https://www.osti.gov/servlets/purl/1489535) for description of tuning process
 - Blade bending moment coefficients to achieve scaled wake (at reference air density of 1.225 kg/m3) are as follows for discreet strain gage locations in thrust and edge directions
 - Wake Management demonstration showing a combination of yaw, induction, and [dynamic induction](https://arc.aiaa.org/doi/abs/10.2514/6.2021-1182) control
